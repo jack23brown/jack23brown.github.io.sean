@@ -9,3 +9,16 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 ```{r, include = FALSE}
 library(tidyverse)
 ```
+
+```{r}
+iris %>% 
+  ggplot(aes(x = Sepal.Length,
+             y = Sepal.Width, 
+             color = Species)) +
+  geom_point() +
+  theme_bw() +
+  labs(x = "Sepal Length",
+       y = "Sepal Width", 
+       title = "Scatterplot of Sepal Length and Width")
+```
+
