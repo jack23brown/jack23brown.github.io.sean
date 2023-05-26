@@ -1,0 +1,11 @@
+---
+title: "Sean's Quarto website"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r, include = FALSE}
+library(tidyverse)
+```
