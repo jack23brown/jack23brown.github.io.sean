@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Sean’s Quarto website",
+    "title": "Sean Leader",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\niris %>% \n  ggplot(aes(x = Sepal.Length,\n             y = Sepal.Width, \n             color = Species)) +\n  geom_point() +\n  theme_bw() +\n  labs(x = \"Sepal Length\",\n       y = \"Sepal Width\", \n       title = \"Scatterplot of Sepal Length and Width\")"
+    "text": "Sean Leader\n\n\n\n\n\n\nI am a graduate student at Cal Poly, SLO studying Statistics and Data Science.\n\n\nEducation\nB.S. Statistics from"
   },
   {
     "objectID": "about.html",

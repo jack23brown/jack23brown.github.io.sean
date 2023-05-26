@@ -1,16 +1,26 @@
 ---
-title: "Sean's Quarto website"
+title: "Sean Leader"
 ---
 
-This is a Quarto website.
+# Sean Leader
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+***
+
+![](Sean.jpg){fig-alt="A drawing of an elephant." fig-align="left" width=20%}
+
+I am a graduate student at Cal Poly, SLO studying Statistics and Data Science.
+
+# Education
+
+B.S. Statistics from ![Cal Poly](https://www.calpoly.edu/)
+
+
 
 ```{r, include = FALSE}
 library(tidyverse)
 ```
 
-```{r}
+```{r, include = FALSE}
 iris %>% 
   ggplot(aes(x = Sepal.Length,
              y = Sepal.Width, 
@@ -22,4 +32,4 @@ iris %>%
        title = "Scatterplot of Sepal Length and Width")
 ```
 
-![](Sean.jpg){fig-alt="A drawing of an elephant." fig-align="left" width=20%}
+
