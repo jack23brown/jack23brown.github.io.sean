@@ -1,8 +1,5 @@
 ---
 title: "Projects"
-resources: 
-  - FinalReport_py.html
-  - FinalReport_r.html
 format:
   html: 
     page-layout: full
@@ -20,14 +17,14 @@ This is a page dedicated to Oh Hell! A game that my family has played for years.
 ## Python
 
 ```{=html}
-<iframe width="100%" height="700" src="projects/FinalReport_py.html" title="Python File"></iframe>
+<iframe width="100%" height="700" src="project_files/FinalReport_py.html" title="Python File"></iframe>
 ```
 
 
 ## R
 
 ```{=html}
-<iframe width="100%" height="700" src="projects/FinalReport_r.html" title="R File"></iframe>
+<iframe width="100%" height="700" src="project_files/FinalReport_r.html" title="R File"></iframe>
 ```
 
 :::

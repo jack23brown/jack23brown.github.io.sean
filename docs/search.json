@@ -16,9 +16,9 @@
   {
     "objectID": "about_me.html",
     "href": "about_me.html",
-    "title": "Sean Leader",
+    "title": "Information about me!",
     "section": "",
-    "text": "Sean Leader is blah blah blah"
+    "text": "To be continued…"
   },
   {
     "objectID": "about_me.html#education",
@@ -75,5 +75,19 @@
     "title": "Sean Leader",
     "section": "Selected Awards",
     "text": "Selected Awards"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This is a page dedicated to Oh Hell! A game that my family has played for years.\n\nR/Python MLOh Hell Project\n\n\n\nPythonR"
+  },
+  {
+    "objectID": "about_me.html#publications",
+    "href": "about_me.html#publications",
+    "title": "Sean Leader",
+    "section": "Publications",
+    "text": "Publications"
   }
 ]
