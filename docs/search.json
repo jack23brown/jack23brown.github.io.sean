@@ -81,7 +81,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "This is a page dedicated to Oh Hell! A game that my family has played for years.\n\nR/Python MLOh Hell Project\n\n\n\nPythonR"
+    "text": "R/Python MLOh Hell Project\n\n\nIn this project for STAT 551 at Cal Poly, we produced a mock document for the EPA that used machine learning to investigate air pollution and car dependency in the United States. We produced this analysis in two programming languages: R and Python. This project helped bolster my skills in both R and Python, allowing me to see the strengths and weaknesses of both languages in the context of machine learning, data visualization, and data summary.\n\nPythonR\n\n\n\n\n\n\n\n\n\n\n\nThis project has a few components:\n\nDevelop an automated way to keep score in the game ‘Oh Hell’\nCreate a database to store player statistics\nCreate an AI capable of playing ‘Oh Hell’ at a competent level\n\nThus far, I have only achieved the first of these goals, but I plan to continue work in the near future."
   },
   {
     "objectID": "about_me.html#publications",

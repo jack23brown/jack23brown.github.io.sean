@@ -5,11 +5,12 @@ format:
     page-layout: full
 ---
 
-This is a page dedicated to Oh Hell! A game that my family has played for years.
 
 ::: panel-tabset
 
 ## R/Python ML
+
+In this project for STAT 551 at Cal Poly, we produced a mock document for the EPA that used machine learning to investigate air pollution and car dependency in the United States. We produced this analysis in two programming languages: R and Python. This project helped bolster my skills in both R and Python, allowing me to see the strengths and weaknesses of both languages in the context of machine learning, data visualization, and data summary. 
 
 ::: panel-tabset
 
@@ -30,5 +31,13 @@ This is a page dedicated to Oh Hell! A game that my family has played for years.
 :::
 
 ## Oh Hell Project
+
+This project has a few components:
+
+- Develop an automated way to keep score in the game 'Oh Hell'
+- Create a database to store player statistics 
+- Create an AI capable of playing 'Oh Hell' at a competent level
+
+Thus far, I have only achieved the first of these goals, but I plan to continue work in the near future.
 
 :::
