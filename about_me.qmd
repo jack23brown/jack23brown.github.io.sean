@@ -1,5 +1,0 @@
----
-title: "Information about me!"
----
-
-To be continued...
