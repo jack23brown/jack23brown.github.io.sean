@@ -6,17 +6,32 @@ title: "Sean Leader"
 
 ***
 
-![](Sean.jpg){fig-alt="A drawing of an elephant." fig-align="left" width=20%}
+
+::: {.columns}
+
+::: {.column width=20%}
+![](Sean.jpg){fig-alt="This is a picture of my face"}
+:::
+
+::: {.column width=10%}
+:::
+
+
+::: {.column}
 
 I am a graduate student at Cal Poly, SLO studying Statistics and Data Science.
 
+:::
+
+:::
+
 # Education
 
-B.S. Statistics from ![Cal Poly](https://www.calpoly.edu/)
+B.S. Statistics from [Cal Poly](https://www.calpoly.edu/)
 
 
 
-```{r, include = FALSE}
+```{r}
 library(tidyverse)
 ```
 

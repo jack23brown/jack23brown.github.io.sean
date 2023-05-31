@@ -4,12 +4,12 @@
     "href": "index.html",
     "title": "Sean Leader",
     "section": "",
-    "text": "Sean Leader\n\n\n\n\n\n\nI am a graduate student at Cal Poly, SLO studying Statistics and Data Science.\n\n\nEducation\nB.S. Statistics from"
+    "text": "Sean Leader\n\n\n\n\n\n\n\nI am a graduate student at Cal Poly, SLO studying Statistics and Data Science.\n\n\n\n\nEducation\nB.S. Statistics from Cal Poly\n\nlibrary(tidyverse)\n\n── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──\n✔ ggplot2 3.4.0      ✔ purrr   0.3.5 \n✔ tibble  3.1.8      ✔ dplyr   1.0.10\n✔ tidyr   1.2.1      ✔ stringr 1.4.1 \n✔ readr   2.1.3      ✔ forcats 0.5.2 \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Test",
+    "title": "Projects",
     "section": "",
     "text": "This is a page dedicated to Oh Hell! A game that my family has played for years."
   }

@@ -1,9 +1,21 @@
 ---
 title: "Projects"
+resources: 
+  - FinalReport_py.html
 ---
 
 This is a page dedicated to Oh Hell! A game that my family has played for years.
 
-```{r}
+::: {.columns}
 
-```
+::: {.column}
+
+[](projects/FinalReport_py.html)
+
+:::
+
+::: {.column}
+:::
+
+
+:::
