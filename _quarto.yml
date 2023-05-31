@@ -3,15 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "Sean's Website"
+  title: "Sean Leader"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: projects.qmd
-        text: Projects
-      - href: blog.qmd
-        text: Blog
+      - projects.qmd
+      - blog.qmd
 
 format:
   html:
