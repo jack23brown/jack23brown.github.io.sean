@@ -1,0 +1,30 @@
+---
+title: "Sean Leader"
+about:
+  template: jolla
+  image: Sean.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com/SPLeader
+---
+
+Sean Leader is blah blah blah
+
+## Education
+
+California Polytechnic State University, San Luis Obispo | B.S. in Statistics | Sept 2019 - June 2023
+
+California Polytechnic State University, San Luis Obispo | M.S. in Statistics | Sept 2023 - June 2024
+
+## Experience
+
+HomeOptions Inc. | Head Data Scientist | Jan 2022 - Jan 2023
+
+Cal Poly | Workshop Leader | Jan 2023 - present
+
+## Publications
+

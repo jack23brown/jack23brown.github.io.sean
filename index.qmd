@@ -1,50 +1,37 @@
 ---
 title: "Sean Leader"
+about:
+  template: jolla
+  image: SeanCropped.jpg
+  links:
+    - icon: envelope
+      text: Contact
+      href: https://mail.google.com/mail/?view=cm&to=spleader13@gmail.com
+    - icon: github
+      text: Github
+      href: https://github.com/SPLeader
 ---
-
-# Sean Leader
-
-***
-
-
-::: {.columns}
-
-::: {.column width=20%}
-![](Sean.jpg){fig-alt="This is a picture of my face"}
-:::
-
-::: {.column width=10%}
-:::
-
-
-::: {.column}
 
 I am a graduate student at Cal Poly, SLO studying Statistics and Data Science.
 
-:::
+## Education
 
-:::
+California Polytechnic State University, San Luis Obispo \| B.S. in Statistics \| Sept 2019 - June 2023
 
-# Education
+California Polytechnic State University, San Luis Obispo \| M.S. in Statistics \| Sept 2023 - June 2024
 
-B.S. Statistics from [Cal Poly](https://www.calpoly.edu/)
+## Experience
 
+[HomeOptions Inc.](https://www.homeoptions.com) \| Data Scientist \| Jan 2022 - Jan 2023
 
+Cal Poly \| Workshop Leader \| Jan 2023 - present
 
-```{r}
-library(tidyverse)
-```
+Cal Poly \| [Frost Researcher](https://cosam.calpoly.edu/prospective-students/frost-fund) \| Jan 2023 - present
 
-```{r, include = FALSE}
-iris %>% 
-  ggplot(aes(x = Sepal.Length,
-             y = Sepal.Width, 
-             color = Species)) +
-  geom_point() +
-  theme_bw() +
-  labs(x = "Sepal Length",
-       y = "Sepal Width", 
-       title = "Scatterplot of Sepal Length and Width")
-```
+## Publications
+
+Article published by the International Association for Statistical Education: Chance, B., Tintle, N., Reynolds, S., Patel, A., Chan, K., [Leader, S]{.underline}. \"Student Performance in Curricula Centered on Simulation-Based Inference\", *Statistics Education Research Journal*, December 01, 2022.
+
+## Selected Awards
 
 

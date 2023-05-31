@@ -4,13 +4,76 @@
     "href": "index.html",
     "title": "Sean Leader",
     "section": "",
-    "text": "Sean Leader\n\n\n\n\n\n\n\nI am a graduate student at Cal Poly, SLO studying Statistics and Data Science.\n\n\n\n\nEducation\nB.S. Statistics from Cal Poly\n\nlibrary(tidyverse)\n\n── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──\n✔ ggplot2 3.4.0      ✔ purrr   0.3.5 \n✔ tibble  3.1.8      ✔ dplyr   1.0.10\n✔ tidyr   1.2.1      ✔ stringr 1.4.1 \n✔ readr   2.1.3      ✔ forcats 0.5.2 \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()"
+    "text": "I am a graduate student at Cal Poly, SLO studying Statistics and Data Science."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Projects",
     "section": "",
-    "text": "This is a page dedicated to Oh Hell! A game that my family has played for years."
+    "text": "This is a page dedicated to Oh Hell! A game that my family has played for years.\n\n\n<iframe width=\"100%\" height=\"1000\" src=\"projects/FinalReport_py.html\" title=\"Python File\"></iframe>\n\n<iframe width=\"100%\" height=\"1000\" src=\"projects/FinalReport_r.html\" title=\"R File\"></iframe>"
+  },
+  {
+    "objectID": "about_me.html",
+    "href": "about_me.html",
+    "title": "Sean Leader",
+    "section": "",
+    "text": "Sean Leader is blah blah blah"
+  },
+  {
+    "objectID": "about_me.html#education",
+    "href": "about_me.html#education",
+    "title": "Sean Leader",
+    "section": "Education",
+    "text": "Education\nCalifornia Polytechnic State University, San Luis Obispo | B.S. in Statistics | Sept 2019 - June 2023\nCalifornia Polytechnic State University, San Luis Obispo | M.S. in Statistics | Sept 2023 - June 2024"
+  },
+  {
+    "objectID": "about_me.html#experience",
+    "href": "about_me.html#experience",
+    "title": "Sean Leader",
+    "section": "Experience",
+    "text": "Experience\nHomeOptions Inc. | Head Data Scientist | Jan 2022 - Jan 2023\nCal Poly | Workshop Leader | Jan 2023 - present"
+  },
+  {
+    "objectID": "about.html#python",
+    "href": "about.html#python",
+    "title": "Projects",
+    "section": "Python",
+    "text": "Python"
+  },
+  {
+    "objectID": "about.html#r",
+    "href": "about.html#r",
+    "title": "Projects",
+    "section": "R",
+    "text": "R"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Sean Leader",
+    "section": "Education",
+    "text": "Education\nCalifornia Polytechnic State University, San Luis Obispo | B.S. in Statistics | Sept 2019 - June 2023\nCalifornia Polytechnic State University, San Luis Obispo | M.S. in Statistics | Sept 2023 - June 2024"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Sean Leader",
+    "section": "Experience",
+    "text": "Experience\nHomeOptions Inc. | Data Scientist | Jan 2022 - Jan 2023\nCal Poly | Workshop Leader | Jan 2023 - present\nCal Poly | Frost Researcher | Jan 2023 - present"
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Sean Leader",
+    "section": "Publications",
+    "text": "Publications\nArticle published by the International Association for Statistical Education: Chance, B., Tintle, N., Reynolds, S., Patel, A., Chan, K., Leader, S. \"Student Performance in Curricula Centered on Simulation-Based Inference\", Statistics Education Research Journal, December 01, 2022."
+  },
+  {
+    "objectID": "index.html#selected-awards",
+    "href": "index.html#selected-awards",
+    "title": "Sean Leader",
+    "section": "Selected Awards",
+    "text": "Selected Awards"
   }
 ]
