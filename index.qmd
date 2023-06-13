@@ -30,7 +30,7 @@ Cal Poly \| [Frost Researcher](https://cosam.calpoly.edu/prospective-students/fr
 
 ## Publications
 
-Article published by the International Association for Statistical Education: Chance, B., Tintle, N., Reynolds, S., Patel, A., Chan, K., [Leader, S]{.underline}. \"Student Performance in Curricula Centered on Simulation-Based Inference\", *Statistics Education Research Journal*, December 01, 2022.
+[Article published by the International Association for Statistical Education](https://iase-web.org/ojs/SERJ/article/view/6): Chance, B., Tintle, N., Reynolds, S., Patel, A., Chan, K., [Leader, S]{.underline}. \"Student Performance in Curricula Centered on Simulation-Based Inference\", *Statistics Education Research Journal*, December 01, 2022.
 
 ## Selected Awards
 
