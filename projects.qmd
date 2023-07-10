@@ -36,7 +36,10 @@ My data science senior capstone project at Cal Poly was to create a network anal
 
 For a comprehensive summary of the work we completed, please refer to the formal report we created below:
 
-(Insert report here)
+```{=html}
+<iframe width="100%" height="700" src="project_files/GEN_CPDS23_Final_Report.pdf" title="GEN Final Report"></iframe>
+```
+
 
 
 ## Oh Hell Project
