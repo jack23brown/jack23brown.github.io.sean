@@ -16,15 +16,15 @@ I am a graduate student at Cal Poly, SLO studying Statistics and Data Science. I
 
 ## Education
 
-California Polytechnic State University, San Luis Obispo \| B.S. in Statistics \| Sept 2019 - June 2023
+California Polytechnic State University, San Luis Obispo \| B.S. in Statistics \| Sep 2019 - Jun 2023
 
-California Polytechnic State University, San Luis Obispo \| M.S. in Statistics \| Sept 2023 - June 2024
+California Polytechnic State University, San Luis Obispo \| M.S. in Statistics \| Sep 2023 - Jun 2024
 
 ## Experience
 
 Data Scientist \| [HomeOptions Inc.](https://www.homeoptions.com) \| Jan 2022 - Jan 2023
 
-Biostatistics Researcher ([SIBS](https://www.nhlbi.nih.gov/grants-and-training/summer-institute-biostatistics)) \| UC Irvine \| July 2023 - Aug 2023
+Biostatistics Researcher ([SIBS](https://www.nhlbi.nih.gov/grants-and-training/summer-institute-biostatistics)) \| UC Irvine \| Jul 2023 - Aug 2023
 
 Statistics Tutor \| Cal Poly & Self-Employed \| Aug 2022 - Jun 2023
 
@@ -32,14 +32,45 @@ Workshop Leader \| Cal Poly \| Jan 2023 - Jun 2023
 
 [Frost Researcher](https://cosam.calpoly.edu/prospective-students/frost-fund) \| Cal Poly \| Jan 2021 - Aug 2021
 
+## Skills
+
+```{r}
+#| echo: FALSE
+#| message: FALSE
+
+library(tidyverse)
+library(kableExtra)
+
+table <- data.frame(Skill_Cat = c("Data Collection", "Data Manipulation", "ML Modeling",
+                              "Data Visualization", "Statistical Communication",
+                              "Statistical Methodologies"),
+                    Ex1 = c("Webscraping", "tidyverse", "scikit-learn",
+                                    "ggplot", "Consulting", "Hypothesis Testing"),
+                    Ex2 = c("APIs", "pandas", "tidymodels", "matplotlib", 
+                            "Tutoring", "Mathematical Theory"),
+                    Ex3 = c("Survey Design", "SQL", "SageMaker", "seaborn", "Research Conferences",
+                            "Probability"))
+
+table |> 
+  rename("Skill Category" = Skill_Cat,
+         "Example 1" = Ex1,
+         "Example 2" = Ex2,
+         "Example 3" = Ex3) |> 
+  kbl() |> 
+  kable_classic(full_width = FALSE) |> 
+  column_spec(1, bold = T, border_right = T)  
+  
+```
+
+
 ## Publications
 
-[Article published by the International Association for Statistical Education](https://iase-web.org/ojs/SERJ/article/view/6): Chance, B., Tintle, N., Reynolds, S., Patel, A., Chan, K., [Leader, S]{.underline}. \"Student Performance in Curricula Centered on Simulation-Based Inference\", *Statistics Education Research Journal*, December 01, 2022.
+[Article published by the International Association for Statistical Education](https://iase-web.org/ojs/SERJ/article/view/6): Chance, B., Tintle, N., Reynolds, S., Patel, A., Chan, K., [Leader, S]{.underline}. "Student Performance in Curricula Centered on Simulation-Based Inference", *Statistics Education Research Journal*, December 01, 2022.
 
 ## Selected Awards
 
-Outstanding Scholarship Award | Cal Poly Statistics Department | 2023
+Outstanding Scholarship Award \| Cal Poly Statistics Department \| 2023
 
-Community Leadership | Cal Poly Statistics Department | 2023
+Community Leadership \| Cal Poly Statistics Department \| 2023
 
-Community Leadership | Cal Poly College of Science and Mathematics | 2023
+Community Leadership \| Cal Poly College of Science and Mathematics \| 2023
