@@ -48,7 +48,7 @@ table <- data.frame(Skill_Cat = c("Data Collection", "Data Manipulation", "ML Mo
                                     "ggplot", "Consulting", "Hypothesis Testing"),
                     Ex2 = c("APIs", "pandas", "tidymodels", "matplotlib", 
                             "Tutoring", "Mathematical Theory"),
-                    Ex3 = c("Survey Design", "SQL", "SageMaker", "seaborn", "Research Conferences",
+                    Ex3 = c("Survey Design", "SQL", "Amazon SageMaker", "seaborn", "Research Presentations",
                             "Probability"))
 
 table |> 
@@ -57,8 +57,9 @@ table |>
          "Example 2" = Ex2,
          "Example 3" = Ex3) |> 
   kbl() |> 
-  kable_classic(full_width = FALSE) |> 
-  column_spec(1, bold = T, border_right = T)  
+  kable_paper(full_width = FALSE) |> 
+  column_spec(1, bold = T, border_right = T) |> 
+  row_spec(0, bold = T, background = "grey", color = "white")
   
 ```
 

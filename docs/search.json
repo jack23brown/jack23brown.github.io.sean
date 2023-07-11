@@ -102,6 +102,6 @@
     "href": "index.html#skills",
     "title": "Sean Leader",
     "section": "Skills",
-    "text": "Skills\n\n\n\n\n\nSkill Category\nExample 1\nExample 2\nExample 3\n\n\n\n\nData Collection\nWebscraping\nAPIs\nSurvey Design\n\n\nData Manipulation\ntidyverse\npandas\nSQL\n\n\nML Modeling\nscikit-learn\ntidymodels\nSageMaker\n\n\nData Visualization\nggplot\nmatplotlib\nseaborn\n\n\nStatistical Communication\nConsulting\nTutoring\nResearch Conferences\n\n\nStatistical Methodologies\nHypothesis Testing\nMathematical Theory\nProbability"
+    "text": "Skills\n\n\n\n\n\nSkill Category\nExample 1\nExample 2\nExample 3\n\n\n\n\nData Collection\nWebscraping\nAPIs\nSurvey Design\n\n\nData Manipulation\ntidyverse\npandas\nSQL\n\n\nML Modeling\nscikit-learn\ntidymodels\nAmazon SageMaker\n\n\nData Visualization\nggplot\nmatplotlib\nseaborn\n\n\nStatistical Communication\nConsulting\nTutoring\nResearch Presentations\n\n\nStatistical Methodologies\nHypothesis Testing\nMathematical Theory\nProbability"
   }
 ]
