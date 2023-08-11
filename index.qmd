@@ -46,23 +46,22 @@ table <- data.frame(Skill_Cat = c("Data Collection", "Data Manipulation", "ML Mo
                               "Statistical Methodologies"),
                     Ex1 = c("Webscraping", "tidyverse", "scikit-learn",
                                     "ggplot", "Consulting", "Hypothesis Testing"),
-                    Ex2 = c("APIs", "pandas", "tidymodels", "matplotlib", 
+                    Ex2 = c("API (REST & GraphQL)", "pandas", "tidymodels", "matplotlib", 
                             "Tutoring", "Mathematical Theory"),
                     Ex3 = c("Survey Design", "SQL", "Amazon SageMaker", "seaborn", "Research Presentations",
                             "Probability"))
 
 table |> 
-  rename("Skill Category" = Skill_Cat,
-         "Example 1" = Ex1,
-         "Example 2" = Ex2,
-         "Example 3" = Ex3) |> 
+  rename("Category" = Skill_Cat,
+         "Skill 1" = Ex1,
+         "Skill 2" = Ex2,
+         "Skill 3" = Ex3) |> 
   kbl() |> 
   kable_paper(full_width = FALSE) |> 
   column_spec(1, bold = T, border_right = T) |> 
   row_spec(0, bold = T, background = "grey", color = "white")
   
 ```
-
 
 ## Publications
 

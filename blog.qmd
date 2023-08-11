@@ -48,11 +48,10 @@ In keynote presentations at USCOTS 2023, one speaker presented to the entirety o
 Breakout sessions were short, fast-paced dialogues between presenters and attendees. During a given time slot, there were about 10 different breakout sessions one could attend based on their interests. Here are a few highlight sessions I attended:
 
 -   Data Science as a general education course
-    -    In this session hosted by Hunter Glanz, we conversed about data science as a terminal (not meant to lead into another course) general education course, where we discussed how to introduce topics about data science to a general audience. Given that data science is a complex and nuanced subject often taught after prerequisite courses, it is not obvious which topics deserve coverage in terminal course that may be taught to anyone, STEM or non-STEM. Dr. Glanz will be releasing a book by the name 'Data For All' (which I will contribute to during my graduate studies!) that is meant to do exactly this, so be on the lookout!  
-    
-- What makes a compelling visualization?
-  - This meeting hosted by Beth Chance and Emily Robinson discussed how to create informative and communicative visualizations, touching on both what *to* do as well as what *not* to do. This session sparked a great dialogue which gave me further insight on how to make compelling visuals at both an introductory and advanced level.
-  
+    -   In this session hosted by Hunter Glanz, we conversed about data science as a terminal (not meant to lead into another course) general education course, where we discussed how to introduce topics about data science to a general audience. Given that data science is a complex and nuanced subject often taught after prerequisite courses, it is not obvious which topics deserve coverage in terminal course that may be taught to anyone, STEM or non-STEM. Dr. Glanz will be releasing a book by the name 'Data For All' (which I will contribute to during my graduate studies!) that is meant to do exactly this, so be on the lookout!
+-   What makes a compelling visualization?
+    -   This meeting hosted by Beth Chance and Emily Robinson discussed how to create informative and communicative visualizations, touching on both what *to* do as well as what *not* to do. This session sparked a great dialogue which gave me further insight on how to make compelling visuals at both an introductory and advanced level.
+
 #### Poster Talks
 
 During poster talks, dozens of participants presented their novel research on countless topics, ranging from phone apps meant to teach statistics to research on medieval-era data. In these talks, I was able to converse one-on-one with the various participants and ask (too many) questions about what they had done. My personal favorite of these posters taught students to compare traditional statistical modelling methodologies to some contemporary algorithmic techniques.
@@ -61,10 +60,51 @@ During poster talks, dozens of participants presented their novel research on co
 
 This was the first conference I have ever attended. Although I would say I experienced a bit of information overload, I would not trade the experience for anything. I met many wonderful individuals and was welcomed with open arms to the statistics education community. I especially appreciated that although 99% (forgive my lackadaisical estimation) of attendees either had or were pursuing their PhDs, I was treated as an equal. Thank you to the organizers, presenters, sponsors, and attendees for providing me with a truly unforgettable experience.
 
-
 ## ISI-BUDS
 
 ### Background
 
-ISI-BUDS is a summer undergraduate research program I am participating in during summer 2023. I will be updating this post with details as I experience!
+[ISI-BUDS](https://www.stat.uci.edu/isi-buds) is a 6-week program in biostatistics and data science hosted by UC Irvine. It is part of a larger set of 10 programs across the United States sponsored by both the [National Institute of Allergy and Infectious Diseases](https://www.niaid.nih.gov) and the [National Heart, Lung, and Blood Institute](https://www.nhlbi.nih.gov). I attended this program in summer of 2023, along with 14 other undergraduate students from all over the country.
+
+### Educational Content
+
+The first three weeks of the program were dedicated to preparing us for the eventual project work through a combination of lectures and labs on a wide array of concepts. Much of the content was familiar to me, but I learned some new highly valuable skills that I wasn't anticipating. A non-exhaustive list of the content we covered is as follows:
+
+
+-   Data Collection
+    -   Interplay between science and statistics
+    -   Study designs
+-   Coding
+    -   R & Tidyverse
+        -   Reproducibility
+        -   Data Manipulation
+        -   Data Visualization
+    -   Monte Carlo 
+        -   Integration
+        -   Methods for Inference
+        -   Importance Sampling
+-   Theory
+    -   Probability Theory
+    -   Statistical distributions
+-   Modeling
+    -   Generalized Linear Models
+    -   Mixed Effects Models
+    -   Covariates
+        -   Adjustments
+        -   Interpretations
+        -   Mathematical Implications
+
+
+
+
+### Alzheimer's Disease Project
+
+The last three weeks of the program, on the other hand, consisted of applying the skills covered in the prior weeks. Each student was assigned to one of four projects based on their interest in each particular research area. I was fortunately put on my first-choice project, which is meant to investigate the research attitudes of populations of particular interest to Alzheimer's Disease research. 
+
+### Outside the classroom
+
+In addition to the rigorous and rewarding academic program we were participating in, there was ample time to socialize and connect with the other undergraduate students attending the program. ISI-BUDS provided each student with a free ARC (Anteater Recreation Center) membership that granted access to all facilities. Over the course of the program, we played countless sports including basketball, volleyball, tennis, spikeball, and swimming. 
+
+The coordinators of ISI-BUDS were also generous enough to plan a few expeditions for us on a few of the weekends, where we went kayaking, whale watching, and went to the beach. 
+
 :::

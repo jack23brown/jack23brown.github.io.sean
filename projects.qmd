@@ -5,54 +5,40 @@ format:
     page-layout: full
 ---
 
-
 ::: panel-tabset
-
 ## R/Python ML
 
-In this project for STAT 551 at Cal Poly, we produced a mock document for the EPA that used machine learning to investigate air pollution and car dependency in the United States. We produced this analysis in two programming languages: R and Python. This project helped bolster my skills in both R and Python, allowing me to see the strengths and weaknesses of both languages in the context of machine learning, data visualization, and data summary. 
+In this project for STAT 551 at Cal Poly, we produced a mock document for the EPA that used machine learning to investigate air pollution and car dependency in the United States. We produced this analysis in two programming languages: R and Python. This project helped bolster my skills in both R and Python, allowing me to see the strengths and weaknesses of both languages in the context of machine learning, data visualization, and data summary.
 
 ::: panel-tabset
-
-
 ## Python
 
 ```{=html}
 <iframe width="100%" height="700" src="project_files/FinalReport_py.html" title="Python File"></iframe>
 ```
-
-
 ## R
 
 ```{=html}
 <iframe width="100%" height="700" src="project_files/FinalReport_r.html" title="R File"></iframe>
 ```
-
 :::
 
 ## Network Analysis
 
-My data science senior capstone project at Cal Poly was to create a network analysis framework for [the Global Emancipation Network]() to help combat human trafficking by identifying criminal networks in the illicit massage business industry. I worked on an interdisciplinary team with three other data science students: Bella White, Thea Yang, and Amara Zabback. The project took course over a 6 month period that consisted of comprehensive network planning and design, data collection from various publicly available sources, self-teaching of a graph database and visualization software (Neo4j), and an interactive network implementation. 
+My data science senior capstone project at Cal Poly was to create a network analysis framework for [the Global Emancipation Network]() to help combat human trafficking by identifying criminal networks in the illicit massage business industry. I worked on an interdisciplinary team with three other data science students: Bella White, Thea Yang, and Amara Zabback. The project took course over a 6 month period that consisted of comprehensive network planning and design, data collection from various publicly available sources, self-teaching of a graph database and visualization software (Neo4j), and an interactive network implementation.
 
 For a comprehensive summary of the work we completed, please refer to the formal report we created below:
 
 ```{=html}
 <iframe width="100%" height="700" src="project_files/GEN_CPDS23_Final_Report.pdf" title="GEN Final Report"></iframe>
 ```
-
-
-
 ## Oh Hell Project
 
 This project has a few components:
 
-- Develop an automated way to keep score in the game 'Oh Hell'
-- Create a database to store player statistics 
-- Create an AI capable of playing 'Oh Hell' at a competent level
+-   Develop an automated way to keep score in the game 'Oh Hell'
+-   Create a database to store player statistics
+-   Create an AI capable of playing 'Oh Hell' at a competent level
 
 Thus far, I have only achieved the first of these goals, but I plan to continue work in the near future.
-
-
-
-
 :::
