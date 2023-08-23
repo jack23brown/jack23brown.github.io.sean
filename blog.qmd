@@ -1,5 +1,8 @@
 ---
 title: "Blog"
+website:
+  navbar:
+    logo: favicon_big.png
 ---
 
 ::: panel-tabset

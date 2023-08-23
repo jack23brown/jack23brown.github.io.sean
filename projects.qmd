@@ -1,5 +1,8 @@
 ---
 title: "Projects"
+website:
+  navbar:
+    logo: favicon_big.png
 format:
   html: 
     page-layout: full
