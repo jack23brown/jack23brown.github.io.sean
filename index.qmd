@@ -1,5 +1,7 @@
 ---
 title: "Sean Leader"
+website:
+  favicon: Sean.jpg
 about:
   template: jolla
   image: SeanCropped.jpg
