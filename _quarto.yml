@@ -6,6 +6,7 @@ website:
   title: "Sean Leader"
   favicon: favicon_big.png
   navbar:
+    logo: favicon_big.png
     left:
       - href: index.qmd
         text: Home
