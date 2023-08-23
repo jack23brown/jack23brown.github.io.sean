@@ -12,6 +12,7 @@ website:
         text: Home
       - projects.qmd
       - blog.qmd
+      - resume.qmd
 
 format:
   html:
