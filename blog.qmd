@@ -63,7 +63,7 @@ During poster talks, dozens of participants presented their novel research on co
 
 This was the first conference I have ever attended. Although I would say I experienced a bit of information overload, I would not trade the experience for anything. I met many wonderful individuals and was welcomed with open arms to the statistics education community. I especially appreciated that although 99% (forgive my lackadaisical estimation) of attendees either had or were pursuing their PhDs, I was treated as an equal. Thank you to the organizers, presenters, sponsors, and attendees for providing me with a truly unforgettable experience.
 
-![A picture of myself, Dr. Beth Chance, and the three other undergradates who attended USCOTS 2023](project_files/uscots_students.JPG)
+![A picture of myself, Dr. Beth Chance, and the three other undergraduates who attended USCOTS 2023](project_files/uscots_students.JPG)
 
 ## ISI-BUDS
 
