@@ -40,7 +40,5 @@ For a comprehensive summary of the work we completed, please refer to the formal
 ```{=html}
 <iframe id="example1" src="https://tf8s7t-sean0leader.shinyapps.io/oh_hell_statistics" style="border: none; width: 100%; height: 720px" frameborder="0"></iframe>
 
-
 ```
-
 :::

@@ -15,7 +15,7 @@ about:
       href: https://www.linkedin.com/in/sean-leader
 ---
 
-I am a graduate student at Cal Poly, SLO studying Statistics and Data Science. I love using my domain knowledge and computational skills to better understand the world around me, in both a personal and professional context. I will be graduating in June 2024 with my Master's degree in Statistics and am actively looking for work after my graduation.
+I am a Doctoral student at UC Irvine studying Statistics. I love using my domain knowledge and computational skills to better understand the world around me, in both a personal and professional context. Thank you for stopping by, please feel free to take a look around my website!
 
 ## Education
 
@@ -31,7 +31,7 @@ Biostatistics Researcher ([SIBS](https://www.nhlbi.nih.gov/grants-and-training/s
 
 Data Scientist \| [Global Emancipation Network](https://www.globalemancipation.ngo) \| Jan 2023 - Jun 2023
 
-Textbook Contributor and Editor \| [Pearson](https://www.pearson.com) \| Jun 2023 - present
+Textbook Contributor and Editor \| [Pearson](https://www.pearson.com) \| Jun 2023 - Aug 2023
 
 Statistics Tutor \| Cal Poly & Self-Employed \| Aug 2022 - Jun 2023
 
@@ -72,7 +72,9 @@ table |>
 
 ## Publications
 
-[Article published by the International Association for Statistical Education](https://iase-web.org/ojs/SERJ/article/view/6): Chance, B., Tintle, N., Reynolds, S., Patel, A., Chan, K., [Leader, S]{.underline}. "Student Performance in Curricula Centered on Simulation-Based Inference", *Statistics Education Research Journal*, December 01, 2022.
+Chance, B., Tintle, N., Reynolds, S., Patel, A., Chan, K., & [Leader, S.]{.underline} (2022). Student performance in curricula centered on simulation-based inference. *Statistics Education Research Journal, 21*(3). <https://doi.org/10.52041/serj.v21i3.6>
+
+Lu, T. V., Campos, P., [Leader, S.]{.underline}, Lee, X., Xu, H., Doran, E., Grill, J. D., & Lott, I. T. (2024). Comparing research attitudes in Down syndrome and non-Down syndrome research decision-makers. *Alzheimer’s & Dementia: Translational Research & Clinical Interventions*, *10*(3). <https://doi.org/10.1002/trc2.12478>
 
 ## Selected Awards
 
