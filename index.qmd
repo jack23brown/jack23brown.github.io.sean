@@ -19,11 +19,13 @@ I am a Doctoral student at UC Irvine studying Statistics. I love using my domain
 
 ## Education
 
-California Polytechnic State University, San Luis Obispo \| B.S. in Statistics \| Sep 2019 - Jun 2023
+California Polytechnic State University, San Luis Obispo \| B.S. in Statistics \| Sep 2019 - Jun 2024
 
 California Polytechnic State University, San Luis Obispo \| M.S. in Statistics \| Sep 2023 - Jun 2024
 
 ## Experience
+
+Teaching Assistant \| UC Irvine \| September 2024 - present
 
 Data Scientist \| [HomeOptions Inc.](https://www.homeoptions.com) \| Jan 2022 - Jan 2023
 
@@ -33,7 +35,7 @@ Data Scientist \| [Global Emancipation Network](https://www.globalemancipation.n
 
 Textbook Contributor and Editor \| [Pearson](https://www.pearson.com) \| Jun 2023 - Aug 2023
 
-Statistics Tutor \| Cal Poly & Self-Employed \| Aug 2022 - Jun 2023
+Statistics Tutor \| Cal Poly & Self-Employed \| Aug 2022 - present
 
 Workshop Leader \| Cal Poly \| Jan 2023 - Jun 2023
 
@@ -59,10 +61,10 @@ table <- data.frame(Skill_Cat = c("Data Collection", "Data Manipulation", "ML Mo
                             "Probability"))
 
 table |> 
-  rename("Category" = Skill_Cat,
-         "Skill 1" = Ex1,
-         "Skill 2" = Ex2,
-         "Skill 3" = Ex3) |> 
+  rename("Skill" = Skill_Cat,
+         "Example 1" = Ex1,
+         "Example 2" = Ex2,
+         "Example 3" = Ex3) |> 
   kbl() |> 
   kable_paper(full_width = FALSE) |> 
   column_spec(1, bold = T, border_right = T) |> 

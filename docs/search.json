@@ -53,14 +53,14 @@
     "href": "index.html#education",
     "title": "Sean Leader",
     "section": "Education",
-    "text": "Education\nCalifornia Polytechnic State University, San Luis Obispo | B.S. in Statistics | Sep 2019 - Jun 2023\nCalifornia Polytechnic State University, San Luis Obispo | M.S. in Statistics | Sep 2023 - Jun 2024"
+    "text": "Education\nCalifornia Polytechnic State University, San Luis Obispo | B.S. in Statistics | Sep 2019 - Jun 2024\nCalifornia Polytechnic State University, San Luis Obispo | M.S. in Statistics | Sep 2023 - Jun 2024"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "Sean Leader",
     "section": "Experience",
-    "text": "Experience\nData Scientist | HomeOptions Inc. | Jan 2022 - Jan 2023\nBiostatistics Researcher (SIBS) | UC Irvine | Jul 2023 - Aug 2023\nData Scientist | Global Emancipation Network | Jan 2023 - Jun 2023\nTextbook Contributor and Editor | Pearson | Jun 2023 - Aug 2023\nStatistics Tutor | Cal Poly & Self-Employed | Aug 2022 - Jun 2023\nWorkshop Leader | Cal Poly | Jan 2023 - Jun 2023\nFrost Researcher | Cal Poly | Jan 2021 - Aug 2021"
+    "text": "Experience\nTeaching Assistant | UC Irvine | September 2024 - present\nData Scientist | HomeOptions Inc. | Jan 2022 - Jan 2023\nBiostatistics Researcher (SIBS) | UC Irvine | Jul 2023 - Aug 2023\nData Scientist | Global Emancipation Network | Jan 2023 - Jun 2023\nTextbook Contributor and Editor | Pearson | Jun 2023 - Aug 2023\nStatistics Tutor | Cal Poly & Self-Employed | Aug 2022 - present\nWorkshop Leader | Cal Poly | Jan 2023 - Jun 2023\nFrost Researcher | Cal Poly | Jan 2021 - Aug 2021"
   },
   {
     "objectID": "index.html#publications",
@@ -102,6 +102,6 @@
     "href": "index.html#skills",
     "title": "Sean Leader",
     "section": "Skills",
-    "text": "Skills\n\n\n\n\n\nCategory\nSkill 1\nSkill 2\nSkill 3\n\n\n\n\nData Collection\nWebscraping\nAPI (REST & GraphQL)\nSurvey Design\n\n\nData Manipulation\ntidyverse\npandas\nSQL\n\n\nML Modeling\nscikit-learn\ntidymodels\nAmazon SageMaker\n\n\nData Visualization\nggplot\nmatplotlib\nseaborn\n\n\nStatistical Communication\nConsulting\nTutoring\nResearch Presentations\n\n\nStatistical Methodologies\nHypothesis Testing\nMathematical Theory\nProbability"
+    "text": "Skills\n\n\n\n\n\nSkill\nExample 1\nExample 2\nExample 3\n\n\n\n\nData Collection\nWebscraping\nAPI (REST & GraphQL)\nSurvey Design\n\n\nData Manipulation\ntidyverse\npandas\nSQL\n\n\nML Modeling\nscikit-learn\ntidymodels\nAmazon SageMaker\n\n\nData Visualization\nggplot\nmatplotlib\nseaborn\n\n\nStatistical Communication\nConsulting\nTutoring\nResearch Presentations\n\n\nStatistical Methodologies\nHypothesis Testing\nMathematical Theory\nProbability"
   }
 ]
