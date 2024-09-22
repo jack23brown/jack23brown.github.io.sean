@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Sean Leader"
+  title: "Jack Brown"
   favicon: favicon_big.png
   navbar:
     logo: favicon_big.png

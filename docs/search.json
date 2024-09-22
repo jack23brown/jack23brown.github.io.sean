@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Sean Leader",
+    "title": "Jack Brown",
     "section": "",
-    "text": "I am a Doctoral student at UC Irvine studying Statistics. I love using my domain knowledge and computational skills to better understand the world around me, in both a personal and professional context. Thank you for stopping by, please feel free to take a look around my website!"
+    "text": "I recently graduated with Master of Science degree in Statistics from Cal Poly, San Luis Obispo. I love using my domain knowledge and computational skills to better understand the world around me, in both a personal and professional context. Thank you for stopping by, please feel free to take a look around my website!"
   },
   {
     "objectID": "about.html",
@@ -51,28 +51,28 @@
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
-    "title": "Sean Leader",
+    "title": "Jack Brown",
     "section": "Education",
     "text": "Education\nCalifornia Polytechnic State University, San Luis Obispo | B.S. in Statistics | Sep 2019 - Jun 2024\nCalifornia Polytechnic State University, San Luis Obispo | M.S. in Statistics | Sep 2023 - Jun 2024"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
-    "title": "Sean Leader",
+    "title": "Jack Brown",
     "section": "Experience",
     "text": "Experience\nTeaching Assistant | UC Irvine | September 2024 - present\nData Scientist | HomeOptions Inc. | Jan 2022 - Jan 2023\nBiostatistics Researcher (SIBS) | UC Irvine | Jul 2023 - Aug 2023\nData Scientist | Global Emancipation Network | Jan 2023 - Jun 2023\nTextbook Contributor and Editor | Pearson | Jun 2023 - Aug 2023\nStatistics Tutor | Cal Poly & Self-Employed | Aug 2022 - present\nWorkshop Leader | Cal Poly | Jan 2023 - Jun 2023\nFrost Researcher | Cal Poly | Jan 2021 - Aug 2021"
   },
   {
     "objectID": "index.html#publications",
     "href": "index.html#publications",
-    "title": "Sean Leader",
+    "title": "Jack Brown",
     "section": "Publications",
     "text": "Publications\nChance, B., Tintle, N., Reynolds, S., Patel, A., Chan, K., & Leader, S. (2022). Student performance in curricula centered on simulation-based inference. Statistics Education Research Journal, 21(3). https://doi.org/10.52041/serj.v21i3.6\nLu, T. V., Campos, P., Leader, S., Lee, X., Xu, H., Doran, E., Grill, J. D., & Lott, I. T. (2024). Comparing research attitudes in Down syndrome and non-Down syndrome research decision-makers. Alzheimer’s & Dementia: Translational Research & Clinical Interventions, 10(3). https://doi.org/10.1002/trc2.12478"
   },
   {
     "objectID": "index.html#selected-awards",
     "href": "index.html#selected-awards",
-    "title": "Sean Leader",
+    "title": "Jack Brown",
     "section": "Selected Awards",
     "text": "Selected Awards\nOutstanding Scholarship Award | Cal Poly Statistics Department | 2023\nCommunity Leadership | Cal Poly Statistics Department | 2023\nCommunity Leadership | Cal Poly College of Science and Mathematics | 2023"
   },
@@ -100,7 +100,7 @@
   {
     "objectID": "index.html#skills",
     "href": "index.html#skills",
-    "title": "Sean Leader",
+    "title": "Jack Brown",
     "section": "Skills",
     "text": "Skills\n\n\n\n\n\nSkill\nExample 1\nExample 2\nExample 3\n\n\n\n\nData Collection\nWebscraping\nAPI (REST & GraphQL)\nSurvey Design\n\n\nData Manipulation\ntidyverse\npandas\nSQL\n\n\nML Modeling\nscikit-learn\ntidymodels\nAmazon SageMaker\n\n\nData Visualization\nggplot\nmatplotlib\nseaborn\n\n\nStatistical Communication\nConsulting\nTutoring\nResearch Presentations\n\n\nStatistical Methodologies\nHypothesis Testing\nMathematical Theory\nProbability"
   }
