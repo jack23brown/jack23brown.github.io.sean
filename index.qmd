@@ -1,21 +1,21 @@
 ---
-title: "Sean Leader"
+title: "Jack Brown"
 about:
   template: jolla
-  image: SeanCropped.jpg
+  image: JackBrown.jpg
   links:
     - icon: envelope
       text: Contact
       href: https://mail.google.com/mail/?view=cm&to=spleader13@gmail.com
     - icon: github
       text: Github
-      href: https://github.com/SPLeader
+      href: https://github.com/jack23brown
     - icon: linkedin
       text: Linkedin
-      href: https://www.linkedin.com/in/sean-leader
+      href: https://www.linkedin.com/in/jack-brown-611a46179/
 ---
 
-I am a Doctoral student at UC Irvine studying Statistics. I love using my domain knowledge and computational skills to better understand the world around me, in both a personal and professional context. Thank you for stopping by, please feel free to take a look around my website!
+I recently graduated with Master of Science degree in Statistics from Cal Poly, San Luis Obispo. I love using my domain knowledge and computational skills to better understand the world around me, in both a personal and professional context. Thank you for stopping by, please feel free to take a look around my website!
 
 ## Education
 
