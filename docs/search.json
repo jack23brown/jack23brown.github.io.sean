@@ -103,5 +103,12 @@
     "title": "Jack Brown",
     "section": "Skills",
     "text": "Skills\n\n\n\n\n\nSkill\nExample 1\nExample 2\nExample 3\n\n\n\n\nData Collection\nWebscraping\nAPI (REST & GraphQL)\nSurvey Design\n\n\nData Manipulation\ntidyverse\npandas\nSQL\n\n\nML Modeling\nscikit-learn\ntidymodels\nAmazon SageMaker\n\n\nData Visualization\nggplot\nmatplotlib\nseaborn\n\n\nStatistical Communication\nConsulting\nTutoring\nResearch Presentations\n\n\nStatistical Methodologies\nHypothesis Testing\nMathematical Theory\nProbability"
+  },
+  {
+    "objectID": "CopyOfprojects.html",
+    "href": "CopyOfprojects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Statistical/Machine Learning in RThesisAnalysis of CSU CollegesOh Hell Project\n\n\nIn this project for STAT 551 at Cal Poly, we produced a mock document for the EPA that used machine learning to predict which individuals are at risk of 1) experiencing Alzheimer’s and/or 2) having a stroke, in the United States. This project helped bolster my machine learning skills in R, including the most cutting-edge techniques, while also utilizing data visualization and other data summary techniques.\n\nPythonR\n\n\n\n\n\n\n\n\n\n\n\nMy thesis for my Master of Science degree in Statistics at Cal Poly was to analyze the impact of the new Video Assistant Referee (VAR) technology on the world’s top soccer league, the English Premier League.\n\n\n\n\n\n\nMy data science senior capstone project at Cal Poly was to create a network analysis framework for the Global Emancipation Network to help combat human trafficking by identifying criminal networks in the illicit massage business industry. I worked on an interdisciplinary team with three other data science students: Bella White, Thea Yang, and Amara Zabback. The project took course over a 6 month period that consisted of comprehensive network planning and design, data collection from various publicly available sources, self-teaching of a graph database and visualization software (Neo4j), and an interactive network implementation.\nFor a comprehensive summary of the work we completed, please refer to the formal report we created below:"
   }
 ]
